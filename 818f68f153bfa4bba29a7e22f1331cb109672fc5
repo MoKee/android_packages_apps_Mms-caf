@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df140735_d9f453d2",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1873,
+      "author": {
+        "id": 305
+      },
+      "writtenOn": "2014-12-09T08:13:47Z",
+      "side": 1,
+      "message": "Do not use tabs, use spaces",
+      "revId": "818f68f153bfa4bba29a7e22f1331cb109672fc5",
+      "serverId": "83d63960-fecf-4fd1-a7f6-e01518638a62",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df140735_b9019fb2",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1882,
+      "author": {
+        "id": 305
+      },
+      "writtenOn": "2014-12-09T08:13:47Z",
+      "side": 1,
+      "message": "Do not use tabs, use spaces",
+      "revId": "818f68f153bfa4bba29a7e22f1331cb109672fc5",
+      "serverId": "83d63960-fecf-4fd1-a7f6-e01518638a62",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df140735_99fedbac",
+        "filename": "src/com/android/mms/ui/ComposeMessageActivity.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1897,
+      "author": {
+        "id": 305
+      },
+      "writtenOn": "2014-12-09T08:13:47Z",
+      "side": 1,
+      "message": "Do not use tabs, use spaces. Avoid whitespace at end of line as well",
+      "revId": "818f68f153bfa4bba29a7e22f1331cb109672fc5",
+      "serverId": "83d63960-fecf-4fd1-a7f6-e01518638a62",
+      "unresolved": false
+    }
+  ]
+}
